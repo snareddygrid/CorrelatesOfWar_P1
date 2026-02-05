@@ -40,7 +40,10 @@ The dataset covers 1816–2012 and classifies alliances into defense pacts, ente
 - NATO's Cold War network was dense and decentralized, reflecting collective security.
 - The Warsaw Pact exhibited a centralized, core–periphery structure dominated by the Soviet Union.
 
-## 🔁 Reproducibility
+## � Final Report
+**Final_Report.pdf** is the comprehensive final report of observation documenting the complete study on the correlates of war. It synthesizes all findings, analyses, and visualizations from this research project into a cohesive narrative examining how global alliance systems responded to and were transformed by major systemic conflicts.
+
+## �🔁 Reproducibility
 All figures and results can be reproduced by running `Exploratory_Data_Analysis.ipynb` using the datasets in the `Datasets/` folder. Visual outputs used in the report are saved in `Visualizations/`.
 
 ## 📋 Requirements
